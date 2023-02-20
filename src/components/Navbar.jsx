@@ -32,7 +32,10 @@ const Navbar = () => {
       </div>
 
       <button className='bg-black text-white hidden md:flex items-center py-2 rounded-full'>
-        <BsFillCartFill size={20} className='mr-2 '/> Cart
+        <BsFillCartFill
+          size={20}
+          className='mr-2 '/>
+        Cart
       </button>
 
       {nav ? <div className='bg-black/80 fixed w-full h-screen z-10 top-0 left-0'>
@@ -50,31 +53,45 @@ const Navbar = () => {
         <nav>
           <ul className='flex flex-col p-4 text-gray-800'>
             <li className='text-xl py-4 flex'>
-              <TbTruckDelivery size={25} className='mr-4'/>
+              <TbTruckDelivery
+                size={25}
+                className='mr-4'/>
               Orders
             </li>
             <li className='text-xl py-4 flex'>
-              <MdFavorite size={25} className='mr-4'/>
+              <MdFavorite
+                size={25}
+                className='mr-4'/>
               Favorites
             </li>
             <li className='text-xl py-4 flex'>
-              <FaWallet size={25} className='mr-4'/>
+              <FaWallet
+                size={25}
+                className='mr-4'/>
               Wallet
             </li>
             <li className='text-xl py-4 flex'>
-              <MdHelp size={25} className='mr-4'/>
+              <MdHelp
+                size={25}
+                className='mr-4'/>
               Help
             </li>
             <li className='text-xl py-4 flex'>
-              <AiFillTag size={25} className='mr-4'/>
+              <AiFillTag
+                size={25}
+                className='mr-4'/>
               Promotions
             </li>
             <li className='text-xl py-4 flex'>
-              <BsFillSaveFill size={25} className='mr-4'/>
+              <BsFillSaveFill
+                size={25}
+                className='mr-4'/>
               Best Ones
             </li>
             <li className='text-xl py-4 flex'>
-              <FaUserFriends size={25} className='mr-4'/>
+              <FaUserFriends
+                size={25}
+                className='mr-4'/>
               Invite Friends
             </li>
           </ul>
