@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/best-eats-site/static/css/main.b3d7269f.css",
-    "main.js": "/best-eats-site/static/js/main.ed509763.js",
+    "main.css": "/best-eats-site/static/css/main.efe20d29.css",
+    "main.js": "/best-eats-site/static/js/main.878ce51f.js",
     "index.html": "/best-eats-site/index.html",
-    "main.b3d7269f.css.map": "/best-eats-site/static/css/main.b3d7269f.css.map",
-    "main.ed509763.js.map": "/best-eats-site/static/js/main.ed509763.js.map"
+    "main.efe20d29.css.map": "/best-eats-site/static/css/main.efe20d29.css.map",
+    "main.878ce51f.js.map": "/best-eats-site/static/js/main.878ce51f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3d7269f.css",
-    "static/js/main.ed509763.js"
+    "static/css/main.efe20d29.css",
+    "static/js/main.878ce51f.js"
   ]
 }
